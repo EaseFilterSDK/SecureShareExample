@@ -1,20 +1,16 @@
 # SecureShareExample
- A C# secure file sharing with DRM example. 
+ A C# secure file sharing with DRM example was implemented with the Transparent File Encryption and Control Filter Driver SDK. The shared file was encrypted with a unique 256-bits key, store the file access policies in a central server, share the encrypted files with fully control. You can grant, revoke or expire the file access at any time, even after the file has been shared. You can add or remove the authorized users, processes and computers at any time. Your application can seamlessly access the encrypted file without any change. The AssureFiles secure agent is integrated with the encryption filter driver, it can decrypt the file in memory transparently if your application is authorized to access the file..
  
- A C# transparent file encryption example was implemented with the Transparent File Encryption Filter Driver SDK. The transparent file encryption performs real-time I/O encryption and decryption of the files in any block data with 16 bytes. The encryption uses a 256 bits symmetric key to encrypt or decrypt the data with AES encryption algorithm. Auto file encryption protects data "at rest", meaning the transparent data and files encryption. It provides the ability to comply with policies which can be applied by users, processes and file type. This allows only authorized users and processes to access the encrypted files, unauthorized users and processes can’t access the encrypted files.
- 
-![File Monitor](https://www.easefilter.com/Images/TransparentFileEncryption.png)
+![File Monitor](https://www.easefilter.com/Images/SecureSharing.png)
 
-The products you can develop with EaseFilter Encryption SDK:
+Safeguard file sharing without boundaries
 
-1.Data encryption at rest. Encryption at rest prevents the attacker from accessing the unencrypted data by ensuring the data is encrypted when on disk.
-Data protection.
+The secure file sharing combines AES 256-bit encryption with digital rights management to give businesses persistent control over all stages of its life, enables employees to share files with anyone, via any method, without compromising business data or risking liability from data loss.
 
-2.Document encryption, file encryption is very important step for data protection, only the authorized users or processes can read the encrypted data, or will get the raw encrypted data.
+Dynamically control file access
 
-3.Data loss prevention.To prevent the data breach, your data is encrypted all the time, even your data was lost and found in an unauthorized place, they are protected against the unauthorized access.
+The secure file sharing solution helps organizations prevent data breaches caused by internal and external threats by enhancing access control to critical business applications and data. It integrates DRM policy with leading enterprise and cloud applications to provide access control, data protection, and activity monitoring and reporting.
 
-4.Secure file sharing with DRM.
-Encrypted your files with digital rights management data embedded into the encrypted header, protect, track and control your encrypted files anywhere anytime, you can grant or revoke the access control to any user at any time even the files were shared.
+Keep tracking and auditing to the shared files
 
-With the C# auto file encryption example, you can setup an encryption folder in computer A, configure the authorized processes, users who can read the encrypted file, then you can setup the decryption folder in computer B, you can copy the encrypted file to this folder, and configure the authorized processes which can read the encrypted files in the decryption folder.
+With the complete file access live tracking report, you can monitor who, when and where files are being accessed with the user and process information, computer identities and geo-location, also know all the unauthorized user information when unauthorized attempts are made and you can proactively block data leakage.
