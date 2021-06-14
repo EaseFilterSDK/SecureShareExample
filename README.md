@@ -14,3 +14,6 @@ The secure file sharing solution helps organizations prevent data breaches cause
 Keep tracking and auditing to the shared files
 
 With the complete file access live tracking report, you can monitor who, when and where files are being accessed with the user and process information, computer identities and geo-location, also know all the unauthorized user information when unauthorized attempts are made and you can proactively block data leakage.
+
+[Read more about secure file sharing example](https://www.easefilter.com/Forums_Files/AssureFiles_Secure_File_Sharing.htm)
+
