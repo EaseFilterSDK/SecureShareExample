@@ -1,4 +1,4 @@
-# SecureShareExample
+# Secure-Share-Example
  A C# secure file sharing with DRM example was implemented with the Transparent File Encryption and Control Filter Driver SDK. The shared file was encrypted with a unique 256-bits key, store the file access policies in a central server, share the encrypted files with fully control. You can grant, revoke or expire the file access at any time, even after the file has been shared. You can add or remove the authorized users, processes and computers at any time. Your application can seamlessly access the encrypted file without any change. The AssureFiles secure agent is integrated with the encryption filter driver, it can decrypt the file in memory transparently if your application is authorized to access the file.
  
 ![File Monitor](https://www.easefilter.com/Images/SecureSharing.png)
