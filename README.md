@@ -17,6 +17,17 @@ With the complete file access live tracking report, you can monitor who, when an
 
 [Read more about secure file sharing example](https://www.easefilter.com/Forums_Files/AssureFiles_Secure_File_Sharing.htm)
 
+## EaseFilter File System Filter Driver SDK Reference
+| Product Name | Description |
+| --- | --- |
+| [File Monitor SDK](https://www.easefilter.com/kb/file-monitor-filter-driver-sdk.htm) | EaseFilter File Monitor Filter Driver SDK Introduction. |
+| [File Control SDK](https://www.easefilter.com/kb/file-control-file-security-sdk.htm) | EaseFilter File Control Filter Driver SDK Introduction. |
+| [File Encryption SDK](https://www.easefilter.com/kb/transparent-file-encryption-filter-driver-sdk.htm) | EaseFilter Transparent File Encryption Filter Driver SDK Introduction. |
+| [Registry Filter SDK](https://www.easefilter.com/kb/registry-filter-drive-sdk.htm) | EaseFilter Registry Filter Driver SDK Introduction. |
+| [Process Filter SDK](https://www.easefilter.com/kb/process-filter-driver-sdk.htm) | EaseFilter Process Filter Driver SDK Introduction. |
+| [Storage Tiering SDK](https://www.easefilter.com/cloud/storage-tiering-sdk.htm) | EaseFilter Storage Tiering Filter Driver SDK Introduction. |
+| [EaseFilter SDK Programming](https://www.easefilter.com/kb/programming.htm) | EaseFilter Filter Driver SDK Programming. |
+
 ## EaseFilter SDK Sample Projects
 | Sample Project | Description |
 | --- | --- |
@@ -31,5 +42,7 @@ With the complete file access live tracking report, you can monitor who, when an
 | [Secure Sandbox Example](https://www.easefilter.com/kb/Secure-Sandbox.htm) | A secure sandbox example, block the processes accessing the files out of the box . |
 | [FileSystemWatcher Example](https://www.easefilter.com/kb/FileSystemWatcher.htm) | File system watcher, logging the file I/O events. |
 
+## Support
+If you have questions or need help, please contact support@easefilter.com or go to the website at www.easefilter.com.
 
 [Home](https://www.easefilter.com/) | [Solution](https://www.easefilter.com/solutions.htm) | [Download](https://www.easefilter.com/download.htm) | [Demos](https://www.easefilter.com/online-fileio-test.aspx) | [Blog](https://blog.easefilter.com/) | [Programming](https://www.easefilter.com/kb/programming.htm)
