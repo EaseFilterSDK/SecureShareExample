@@ -39,7 +39,7 @@ With the complete file access live tracking report, you can monitor who, when an
 | [FolderLocker Example](https://www.easefilter.com/kb/FolderLocker.htm) | Lock file automatically in a FolderLocker. |
 | [Process Monitor](https://www.easefilter.com/kb/Process-Monitor.htm) | Monitor the process creation and termination, block unauthorized process running. |
 | [Registry Monitor](https://www.easefilter.com/kb/RegMon.htm) | Monitor the Registry activities, block the modification of the Registry keys. |
-| [Secure Sandbox Example](https://www.easefilter.com/kb/Secure-Sandbox.htm) | A secure sandbox example, block the processes accessing the files out of the box . |
+| [Secure Sandbox Example](https://www.easefilter.com/kb/Secure-Sandbox.htm) |A secure sandbox example, block the processes accessing the files out of the box. |
 | [FileSystemWatcher Example](https://www.easefilter.com/kb/FileSystemWatcher.htm) | File system watcher, logging the file I/O events. |
 
 ## Filter Driver Reference
