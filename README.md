@@ -42,7 +42,16 @@ With the complete file access live tracking report, you can monitor who, when an
 | [Secure Sandbox Example](https://www.easefilter.com/kb/Secure-Sandbox.htm) | A secure sandbox example, block the processes accessing the files out of the box . |
 | [FileSystemWatcher Example](https://www.easefilter.com/kb/FileSystemWatcher.htm) | File system watcher, logging the file I/O events. |
 
+## Filter Driver Reference
+
+* Understand MiniFilter Driver: https://www.easefilter.com/kb/understand-minifilter.htm
+* Understand File I/O: https://www.easefilter.com/kb/File_IO.htm
+* Understand I/O Request Packets(IRPs):https://www.easefilter.com/kb/understand-irps.htm
+* Filter Driver Developer Guide: https://www.easefilter.com/kb/DeveloperGuide.htm
+* MiniFilter Filter Driver Framework: https://www.easefilter.com/kb/minifilter-framework.htm
+* Isolation Filter Driver: https://www.easefilter.com/kb/Isolation_Filter_Driver.htm
+
 ## Support
-If you have questions or need help, please contact support@easefilter.com or go to the website at www.easefilter.com.
+If you have questions or need help, please contact support@easefilter.com 
 
 [Home](https://www.easefilter.com/) | [Solution](https://www.easefilter.com/solutions.htm) | [Download](https://www.easefilter.com/download.htm) | [Demos](https://www.easefilter.com/online-fileio-test.aspx) | [Blog](https://blog.easefilter.com/) | [Programming](https://www.easefilter.com/kb/programming.htm)
